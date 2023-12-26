@@ -32,10 +32,10 @@ export default function section1() {
 
             <Swiper
                 slidesPerView={1}
-                // loop={true}
-                // autoplay= {{
-                //     delay: 2000
-                // }}
+                loop={true}
+                autoplay= {{
+                    delay: 2000
+                }}
                 >
                 {
                     data.map((value, index) => (
