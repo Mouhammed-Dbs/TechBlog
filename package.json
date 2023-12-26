@@ -1,5 +1,5 @@
 {
-  "name": "tech_blog",
+  "name": "next_blog",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -13,7 +13,8 @@
     "react": "^18",
     "react-dom": "^18",
     "react-icons": "^4.12.0",
-    "swiper": "^11.0.5"
+    "swiper": "^11.0.5",
+    "swr": "^1.3.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.16",
